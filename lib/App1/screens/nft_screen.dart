@@ -1,5 +1,5 @@
-import 'package:best_ui/animations/animations.dart';
-import 'package:best_ui/widgets/blur_container.dart';
+import 'package:best_ui/App1/animations/animations.dart';
+import 'package:best_ui/App1/widgets/blur_container.dart';
 import 'package:flutter/material.dart';
 
 class NFTScreen extends StatelessWidget {
